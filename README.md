@@ -7,11 +7,11 @@
 - MacBook Air M1 256GB-16G RAM
 
 `Java`  
-- IntelliJ IDEA CE
+- IntelliJ IDEA CE 2022-03-02
 - Open JDK 19 버전
 
 `Python`
-- PyCharm CE
+- PyCharm CE 2022-03-02
 - Python 3.11
 ## 📔 개념정리 - Notion
 - [`Java`](https://haeera.notion.site/0435cd8a718b4cada11866b56363570a)
